@@ -1,5 +1,5 @@
 {
-  "name": "tabtab-helper",
+  "name": "@tabtab/tabtab-helper",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -39,5 +39,20 @@
     "last 2 versions",
     "not dead",
     "not ie 11"
-  ]
+  ],
+  "description": "## Project setup ``` yarn install ```",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hunglt2604/tabtab-helper.git"
+  },
+  "keywords": [
+    "tabtab"
+  ],
+  "author": "hunglt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hunglt2604/tabtab-helper/issues"
+  },
+  "homepage": "https://github.com/hunglt2604/tabtab-helper#readme"
 }
